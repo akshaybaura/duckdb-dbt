@@ -1,0 +1,8 @@
+bayzat:
+  outputs:
+   dev:
+     type: duckdb
+     path: /home/app/duckdb_artifacts/bayzat
+     database: bayzat
+     threads: 12
+  target: dev

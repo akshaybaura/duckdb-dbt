@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: message_landing
+    database: bayzat 
+    schema: main
+    tables:
+      - name: message_landing
